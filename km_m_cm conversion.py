@@ -1,4 +1,5 @@
 A = int(input())
 B = A*1000
 C = B*100
-print(B,C)
+print(B)
+print(C)
