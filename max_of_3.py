@@ -1,3 +1,4 @@
-A,B,C = input().split()
-A,B,C = (int(x) for x in [A,B,C])
+A = input()
+B = input()
+C = input()
 print(max(A,B,C))
