@@ -1,3 +1,4 @@
-a = list((int(input()),int(input())))
+a = input().split()
 
 print(min(a))
+
