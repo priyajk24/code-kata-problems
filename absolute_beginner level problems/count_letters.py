@@ -1,3 +1,7 @@
 A = input()
 A = A.split()
-print(len(A))
+a=0
+for i in A:
+    a += len(i)
+print(a)
+  
